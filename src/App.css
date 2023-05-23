@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;700&display=swap');
+
+* {
+    font-family: 'Kumbh Sans';
+    font-size: 18px;
+}
+
+body {
+    background: hsl(185, 75%, 39%);
+}
+
+.bg_bottom_style {
+    background-image: url(../src/assets/bg-pattern-bottom.svg);
+}
+
+.bg_top_style {
+    background-image: url(../src/assets/bg-pattern-top.svg);
+}
